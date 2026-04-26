@@ -1,2 +1,2 @@
-return 20000
+return 2000
 -- ??? Deltha ???
