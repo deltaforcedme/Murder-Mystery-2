@@ -1,2 +1,2 @@
-return 1000000
+return 30000
 
